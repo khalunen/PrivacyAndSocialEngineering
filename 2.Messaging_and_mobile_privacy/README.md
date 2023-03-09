@@ -9,7 +9,7 @@ Also, we will go through privacy problems, measurements and features on iOS and 
 
 ## Grading
 
-You must do tasks **in order**.
+You must do tasks **in order**. That is, you must complete task 1 before attempting task 2 and task 2 before task 3.
 
 You are expected to use more time on later tasks to get an equal amount of points than in previous tasks.
 
